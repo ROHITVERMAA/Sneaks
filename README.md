@@ -29,7 +29,7 @@
 
 ## Live Site
 
-The project is available at [https://change.app/](https://change.app/)
+The project is available at [https://sneaks-puce.vercel.app/](https://sneaks-puce.vercel.app/)
 
 ## Prerequisites
 
